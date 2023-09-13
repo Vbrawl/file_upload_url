@@ -1,1 +1,14 @@
-{"project_name": "file_upload", "project_version": "1.0.0", "project_url": "", "project_requirements": {"database_adapter": "https://github.com/vbrawl/database_adapter_php", "rest_api": "https://github.com/vbraw/rest_api_php"}, "project_library_directory": "pm_library", "project_input_resource_directory": "resources", "project_output_resource_directory": "pm_resources", "project_relocation_config": "relocation.php", "project_javascript_relocation_config": "relocation.js"}
+{
+    "project_name": "file_upload",
+    "project_version": "1.0.0",
+    "project_url": "https://github.com/vbrawl/file_upload_php",
+    "project_requirements": {
+        "database_adapter": "https://github.com/vbrawl/database_adapter_php",
+        "rest_api": "https://github.com/vbraw/rest_api_php"
+    },
+    "project_library_directory": "pm_library",
+    "project_input_resource_directory": "resources",
+    "project_output_resource_directory": "pm_resources",
+    "project_relocation_config": "relocation.php",
+    "project_javascript_relocation_config": "relocation.js"
+}
